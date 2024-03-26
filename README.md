@@ -6,7 +6,7 @@ This project showcases the power of data visualization for exploring historical 
 
 - [@VishalShaji](https://www.github.com/VishShaji)
 
-- ## Tech Stack
+## Tech Stack
 
 - Pandas
 - Jupyter Notebook
@@ -19,40 +19,35 @@ The data source for this project is obtained from IBM during the IBM Data Analys
 
 ## Project Goals:
 
-Showcase visualization skills: Utilize Plotly's capabilities to create dynamic and informative visualizations of historical automobile sales data.
+- Showcase visualization skills: Utilize Plotly's capabilities to create dynamic and informative visualizations of historical automobile sales data.
 Develop a responsive web dashboard: Employ Dash to build a user-friendly dashboard accessible across various devices (desktop, tablet, mobile).
 Uncover sales trends: Enable users to explore historical sales data, identify patterns, and understand sales performance over time.
 Expected Outcomes:
 
-An interactive dashboard featuring various visualizations for in-depth analysis of historical automobile sales data.
+- An interactive dashboard featuring various visualizations for in-depth analysis of historical automobile sales data.
 Enhanced ability to communicate complex sales data and trends through engaging visualizations.
 Demonstration of expertise in data visualization and web development.
-Benefits:
-
-Improved data exploration: Users can delve into historical sales data, uncovering trends and patterns that might be missed in traditional analysis.
-Informed decision-making: Data-driven insights can support strategic decisions related to marketing, product development, and resource allocation within the automotive industry.
-
-Effective communication: Complex sales data can be effectively communicated to stakeholders through clear and interactive visualizations.
 
 ## Key Features:
 
-Interactive visualizations: Utilize Plotly's extensive library to create dynamic charts and graphs, enabling users to explore sales trends from various perspectives.
+- Interactive visualizations: Utilize Plotly's extensive library to create dynamic charts and graphs, enabling users to explore sales trends from various perspectives.
 
-Responsive web dashboard: Developed using Dash, the dashboard is optimized for seamless access and exploration across different devices (desktop, tablet, mobile).
+- Responsive web dashboard: Developed using Dash, the dashboard is optimized for seamless access and exploration across different devices (desktop, tablet, mobile).
 Historical sales analysis: Dive deep into historical sales data to understand patterns, identify top-selling models, and analyze performance over time.
 Potential Visualizations:
 
-Time series analysis: Track overall sales trends and identify seasonal variations using line charts.
+- Time series analysis: Track overall sales trends and identify seasonal variations using line charts.
 
-Sales by category: Explore sales performance across different vehicle categories (e.g., sedan, SUV, truck) with bar charts or pie charts.
+- Sales by category: Explore sales performance across different vehicle categories (e.g., sedan, SUV, truck) with bar charts or pie charts.
 Geographical analysis: (if data allows) Visualize sales performance by region or country using maps or heatmaps.
-Benefits:
 
-Improved decision-making: Gain data-driven insights to inform marketing strategies, product development, and resource allocation within the automotive industry.
+## Benefits:
 
-Enhanced communication: Effectively communicate complex sales data and trends to stakeholders through interactive visualizations.
+- Improved decision-making: Gain data-driven insights to inform marketing strategies, product development, and resource allocation within the automotive industry.
 
-Accessibility and Exploration: Allow users to explore the data at their own pace, uncovering hidden patterns and fostering deeper understanding.
+- Enhanced communication: Effectively communicate complex sales data and trends to stakeholders through interactive visualizations.
+
+- Accessibility and Exploration: Allow users to explore the data at their own pace, uncovering hidden patterns and fostering deeper understanding.
 
 ## Screenshots
 
